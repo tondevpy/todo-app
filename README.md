@@ -10,7 +10,7 @@ Este projeto foi desenvolvido como uma introdução ao desenvolvimento de aplica
 
 ## Demonstração
 
-Você pode ver uma demonstração ao vivo do projeto [aqui]('https://65f3ad1c723a5a6035b0b423--whimsical-dusk-898a6f.netlify.app/').
+Você pode ver uma demonstração ao vivo do projeto [aqui](https://65f3ad1c723a5a6035b0b423--whimsical-dusk-898a6f.netlify.app/).
 
 ## Funcionalidades
 
