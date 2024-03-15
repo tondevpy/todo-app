@@ -1,0 +1,11 @@
+.riscar {
+  color: black;
+}
+.background {
+  background: #07560d;
+  border-radius: 8px;
+}
+.noBack{
+  background: #202020;
+  border-radius: 8px;
+}
