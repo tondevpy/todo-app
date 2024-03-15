@@ -26,25 +26,6 @@ Você pode ver uma demonstração ao vivo do projeto [aqui](#).
 - CSS Modules
 - React Toastify
 
-## Estrutura de Arquivos
-
-todo-app/
-├── public/
-│ └── index.html
-├── src/
-│ ├── components/
-│ │ └── App.js
-│ ├── styles/
-│ │ ├── App.module.css
-│ │ └── App.css
-│ ├── App.css
-│ ├── App.js
-│ └── index.js
-├── .gitignore
-├── package-lock.json
-├── package.json
-└── README.md
-
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um PR ou criar uma issue para relatar bugs ou sugerir novas funcionalidades.
